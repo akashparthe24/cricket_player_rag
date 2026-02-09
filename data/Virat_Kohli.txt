@@ -1,0 +1,29 @@
+Cricketer Profile
+
+Player Name: Virat Kohli
+Country: India
+Date of Birth: 05 November 1988
+Playing Role: Top-order batter
+Batting Style: Right-handed
+Bowling Style: Right-arm medium
+
+International Career Summary
+- Test Matches: 113
+- ODI Matches: 292
+- T20I Matches: 117
+
+Batting Statistics (International)
+- Test Runs: 8848
+- ODI Runs: 13848
+- T20I Runs: 4037
+- ODI Batting Average: 58.67
+
+Career Highlights and Achievements
+- Former captain of the Indian national team across formats.
+- Scored 50 ODI centuries.
+- Key member of India’s 2011 ICC Cricket World Cup-winning squad.
+- Won ICC Men’s ODI Cricketer of the Year multiple times.
+- Known for consistency in run chases and elite fitness standards.
+
+Note
+This document is a sample profile for retrieval and question-answering experiments.
